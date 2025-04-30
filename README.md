@@ -50,7 +50,7 @@ To identify transactions that may indicate potential fraud by analyzing:
 ## Files Included
 
 - `README.md` – Project overview and details
-- `transactions_dataset.csv` – Sample transaction data
+- `financial_transactions_dummy.csv` – Sample transaction data
 - `fraud_detection_queries.sql` – SQL queries for detection and analysis
 
 ## Credits
