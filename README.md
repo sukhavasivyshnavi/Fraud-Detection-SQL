@@ -43,7 +43,7 @@ To identify transactions that may indicate potential fraud by analyzing:
 ## How to Run
 
 1. Clone or download this repository
-2. Import the dataset `transactions_dataset.csv` into MySQL
+2. Import the dataset `financial_transactions_dummy.csv` into MySQL
 3. Run the SQL scripts provided in `fraud_detection_queries.sql`
 4. Analyze the output of each query to review the suspicious patterns
 
